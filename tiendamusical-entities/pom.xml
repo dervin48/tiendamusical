@@ -7,14 +7,12 @@
     <artifactId>tiendamusical</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.devpredator</groupId>
+
   <artifactId>tiendamusical-entities</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+
   <name>tiendamusical-entities</name>
   <url>http://maven.apache.org</url>
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
